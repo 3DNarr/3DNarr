@@ -28,6 +28,12 @@
 
 - El senderismo
 
+## Mi contacto
+
+### https://www.instagram.com/3d.narr/
+
+### Bernardosalvarez.carlos@gmail.com
+
 ## Alguno de mis trabajos.
 
 ![texto](https://github.com/3DNarr/3DNarr/raw/main/adeptus1.png)
