@@ -1,17 +1,59 @@
-## Hola, soy Carlos.
+# Hola, soy Carlos.
 
-<!--
-**3DNarr/3DNarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiro a generalista 3D, interesado mayormente por el modelado. 
 
-Here are some ideas to get you started:
+### Estoy acostumbrado a los siguientes programas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bambustudio
+
+- Maya
+
+- Blender
+
+- Substance
+
+- Photoshop
+
+- Premiere
+
+- Figma
+
+### Mis principales aficiones son:
+
+- El cine y las series
+
+- La gastronomia y cocina
+
+- La lectura
+
+- El senderismo
+
+## Alguno de mis trabajos.
+
 ![texto](https://github.com/3DNarr/3DNarr/raw/main/adeptus1.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/barquita1.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/bruja1.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/calabaza1.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/castillo1.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/cuero1.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/espadita2.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/faro1.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/hielito1.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/hielo1.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/metal1.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/nieve1.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/oxido1.png)
+
+![texto](https://github.com/3DNarr/3DNarr/raw/main/ranita1.png)
